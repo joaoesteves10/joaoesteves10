@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://jestev.es">
+  <a href="https://jestev.es" target="_blank" rel="noopener">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://jestev.es/assets/gh/readme_dark.svg">
       <source media="(prefers-color-scheme: light)" srcset="https://jestev.es/assets/gh/readme_light.svg">
